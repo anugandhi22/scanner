@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Pallindrone {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		System.out.println("Enter a Number: ");
+		System.out.println("Enter a String: ");
 		int num=sc.nextInt();
 		int rev=0;
 		int n=num;
